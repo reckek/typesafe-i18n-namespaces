@@ -1,0 +1,6 @@
+{
+   "adapter": "react",
+   "esmImports": true,
+   "baseLocale": "en",
+   "outputFormat": "TypeScript"
+}
